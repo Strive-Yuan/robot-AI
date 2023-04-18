@@ -1,2 +1,7 @@
 server:
-    port: 8080
+  port: 9090
+gpt:
+  privateKey: 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
+
+
+# 如果需要翻墙设置代理，需要配置这几个，一般给灯神和chatGPT用
